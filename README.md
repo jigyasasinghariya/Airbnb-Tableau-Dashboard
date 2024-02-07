@@ -12,9 +12,14 @@ KEY FEATURES :-
 **User-Friendly Interface**: The dashboard prioritizes user experience, making it accessible for both casual users and data enthusiasts.
 
 SOME USEFUL INSIGHTS:-
+
 1.Top 10 hosts by total review.
+
 2.Average price in neighbourhood-room type.
+
 3.Total reviews by year.
+
 4.Total bookings by month.
+
 5.Average reviews per month by room type & neighbourhood groups.
 
