@@ -10,3 +10,11 @@ Key Features :-
 **Insightful Analytics**: Uncover valuable insights regarding occupancy rates, pricing dynamics, and the popularity of different property types across the city.
 
 **User-Friendly Interface**: The dashboard prioritizes user experience, making it accessible for both casual users and data enthusiasts.
+
+SOME USEFUL INSIGHTS:-
+Top 10 hosts by total review.
+Average price in neighbourhood-room type.
+Total reviews by year.
+Total bookings by month.
+Average reviews per month by room type & neighbourhood groups.
+
