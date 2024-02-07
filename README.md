@@ -1,7 +1,7 @@
 # Airbnb-Tableau-Dashboard
 Welcome to the Airbnb NYC Tableau Dashboard project! This initiative is dedicated to providing a comprehensive and interactive data visualization experience for Airbnb listings in New York City.Leveraging the power of Tableau, we've crafted a dynamic dashboard to explore trends, patterns, and insights in the dynamic New York City rental market. 
 
-Key Features :-
+KEY FEATURES :-
 
 **Dynamic Visualizations**: Immerse yourself in engaging visualizations that bring to life various facets of Airbnb data in New York City.
 
@@ -12,9 +12,9 @@ Key Features :-
 **User-Friendly Interface**: The dashboard prioritizes user experience, making it accessible for both casual users and data enthusiasts.
 
 SOME USEFUL INSIGHTS:-
-Top 10 hosts by total review.
-Average price in neighbourhood-room type.
-Total reviews by year.
-Total bookings by month.
-Average reviews per month by room type & neighbourhood groups.
+1.Top 10 hosts by total review.
+2.Average price in neighbourhood-room type.
+3.Total reviews by year.
+4.Total bookings by month.
+5.Average reviews per month by room type & neighbourhood groups.
 
