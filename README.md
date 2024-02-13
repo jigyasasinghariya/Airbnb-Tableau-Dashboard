@@ -37,5 +37,5 @@ Sales analysis is crucial for Airbnb's continued success and growth. Understandi
 Data Integration: Combining and integrating data from various sources within Airbnb's vast ecosystem posed a significant challenge. Ensuring data accuracy and consistency was paramount for meaningful analysis.
 
 Here is the link to my tableau project :
-
+https://public.tableau.com/app/profile/jigyasa.singhariya/viz/Airbnb_16916911453460/Dashboard1?publish=yes
 
